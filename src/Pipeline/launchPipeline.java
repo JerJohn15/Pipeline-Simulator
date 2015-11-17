@@ -28,7 +28,7 @@ public class launchPipeline extends Read_WB{
 	 * @method - runPipeline
 	 * @details - Starts the program
 	 * Note: ccNum is used as an index to fetch each 
-	 * instrucion in instrucCache array
+	 * instruction in instrucCache array
 	 */
 	public void runPipeline(){
 		while(ccNum <=11){
